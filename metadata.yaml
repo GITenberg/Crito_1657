@@ -1,5 +1,5 @@
 _repo: Crito_1657
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -46,5 +46,6 @@ subjects:
 - !lcc 'PA'
 - !lcc 'B'
 - !lcsh 'Justice -- Early works to 1800'
+- GITenberg
 title: Crito
 url: http://www.gutenberg.org/ebooks/1657
